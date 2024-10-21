@@ -1,4 +1,4 @@
-Dla każdej z poniższych sieci wyznacz zakresa adresów IP i adres rozgłoszeniowy
+Dla każdej z poniższych sieci wyznacz zakres  adresów IP i adres rozgłoszeniowy
 a)	172.16.18.0/23	
 b)	172.16.20.0/22
 c)	172.16.48.0/21
