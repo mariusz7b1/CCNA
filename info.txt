@@ -1,9 +1,15 @@
-Mariusz Gola    gola.m@acsdagma.com.pl
+1.
+Materiały do kursu.
+https://github.com/mariusz7b1/CCNA
 
-1. 
+2. 
 Download Packet Tracer
 https://www.netacad.com/resources/lab-downloads
 
 
 SYSTM DWÓJKOWY 
 https://www.youtube.com/watch?v=VUHwfugYFEA&t=260s
+
+
+
+Mariusz Gola    gola.m@szkolenia.dagma.pl
