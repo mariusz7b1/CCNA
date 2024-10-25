@@ -1,0 +1,4 @@
+! Warszawa
+ip nat pool NAT_POOL1 217.88.88.2 217.88.88.3 netmask 255.255.255.248
+access-list 10 permit 172.16.8.0 0.0.3.255
+ip nat inside source list 10 pool NAT_POOL1 overload
