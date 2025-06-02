@@ -5,5 +5,6 @@ https://github.com/mariusz7b1/CCNA
 Download Packet Tracer
 https://www.netacad.com/resources/lab-downloads
 
-
+-ALTERNATYWNIE
+https://zasobymg.blob.core.windows.net/ccna/Packet_Tracer822_64bit_setup_signed.exe
 
